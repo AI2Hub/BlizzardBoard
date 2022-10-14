@@ -2,6 +2,8 @@
 
 Only get BlizzBoard ipa from here
 
+Please don't redistribute this code without permission 
+
 # Before proceeding read this
 
 ⚠️ Choosing the unstable version may cause a bootloop
