@@ -75,27 +75,3 @@ void respring(void)
     killall(@"SpringBoard");
     exit(0);
 }
-
-void fetchLatestTrollStoreVersion(void (^completionHandler)(NSString* latestVersion))
-{
-    NSURL* githubLatestAPIURL = [NSURL URLWithString:@"https://api.github.com/repos/opa334/TrollStore/releases/latest"];
-
-    NSURLSessionDataTask* task = [NSURLSession.sharedSession dataTaskWithURL:githubLatestAPIURL completionHandler:^(NSData *data, NSURLResponse *response, NSError *error)
-    {
-        if(!error)
-        {
-            if ([response isKindOfClass:[NSHTTPURLResponse class]])
-            {
-                NSError *jsonError;
-                NSDictionary *jsonResponse = [NSJSONSerialization JSONObjectWithData:data options:0 error:&jsonError];
-
-                if (!jsonError)
-                {
-                    completionHandler(jsonResponse[@"tag_name"]);
-                }
-            }
-        }
-    }];
-
-    [task resume];
-}
