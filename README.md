@@ -2,6 +2,8 @@
 
 ⚠️ Choosing the unstable version may cause a bootloop
 
+The stable version may have some bugs but you shouldn't be able to bootloop with it
+
 # Installation
 
 There are 2 ipa options (The stable version is highly recommended)
