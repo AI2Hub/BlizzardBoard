@@ -2,7 +2,7 @@
 
 # Installation
 
-There are 2 ipa options (Stable is recommended)
+There are 2 ipa options (The stable version is highly recommended)
 
 [Stable](https://appinstallerios.com/TrollStoreIPAs/BlizzardBoard.ipa)
 
