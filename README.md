@@ -1,8 +1,10 @@
 # BlizzardBoard
 
-⚠️ Choosing the unstable version may cause a bootloop
+Only get BlizzBoard ipa from here
 
-⚠️ Only get BlizzBoard ipa from here
+# Before proceeding read this
+
+⚠️ Choosing the unstable version may cause a bootloop
 
 The stable version may have some bugs but you shouldn't be able to bootloop with it
 
