@@ -1,5 +1,7 @@
 # BlizzardBoard
 
+⚠️ Choosing the unstable version may cause a bootloop
+
 # Installation
 
 There are 2 ipa options (The stable version is highly recommended)
