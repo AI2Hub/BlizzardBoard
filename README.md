@@ -4,6 +4,8 @@ Only get BlizzBoard ipa from here
 
 Please don't redistribute this code without permission 
 
+I'm using TSUtil.m from TrollStore to respring 
+
 # Before proceeding read this
 
 ⚠️ Choosing the unstable version may cause a bootloop
