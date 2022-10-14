@@ -2,7 +2,7 @@
 
 Only get BlizzBoard ipa from here
 
-Please don't redistribute this code without permission 
+Please don't redistribute my code without permission 
 
 I'm using TSUtil.m from TrollStore to respring 
 
