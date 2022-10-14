@@ -9,3 +9,7 @@ There are 2 ipa options (Stable is recommended)
 [Unstable](https://appinstallerios.com/TrollStoreIPAs/BlizzardBoard-Unstable.ipa)
 
 Once you downloaded the ipa install it with TrollStore
+
+# Why choose unstable?
+
+Unstable has the ability to change the position of the theme icons to match the original app icon place on the Home Screen the stable version cannot
