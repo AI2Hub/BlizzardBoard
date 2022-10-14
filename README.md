@@ -33,3 +33,7 @@ Most snowboard themes should work with the stable build but the non stable build
 # Adding Themes
 
 To add themes just share the .theme to the BlizzBoard app or inside the BlizzBoard app tap import
+
+# Setting Themes
+
+Just tap enable on the theme you want to set at the bottom of my app you have some options like hiding the labels once you tap enable it might take a while depending on how many icons are in the theme just don't exit the app during this process
