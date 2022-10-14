@@ -36,4 +36,4 @@ To add themes just share the .theme to the BlizzBoard app or inside the BlizzBoa
 
 # Setting Themes
 
-Just tap enable on the theme you want to set at the bottom of my app you have some options like hiding the labels once you tap enable it might take a while depending on how many icons are in the theme *just don't exit the app during this process* once that's done you'll get a respring alert just tap respring now then you should have themed icons on your homescreen you'll have to rearrange them to match your needs
+Just tap enable on the theme you want to set at the bottom of my app you have some options like hiding the labels once you tap enable it might take a while depending on how many icons are in the theme **just don't exit the app during this process** once that's done you'll get a respring alert just tap respring now then you should have themed icons on your homescreen you'll have to rearrange them to match your needs
