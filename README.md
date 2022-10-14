@@ -13,3 +13,7 @@ Once you downloaded the ipa install it with TrollStore
 # Why choose unstable?
 
 Unstable has the ability to change the position of the theme icons to match the original app icon place on the Home Screen the stable version cannot
+
+# What themes work
+
+Most snowboard themes should work with the stable build but the non stable build requires the icon naming scheme to be -large.png
